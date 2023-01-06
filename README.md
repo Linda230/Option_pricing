@@ -7,7 +7,8 @@ you can install "openturns" by the following command:
 
 pip install openturns
 
-Implementation details: \\
+Implementation details:
+
 you can run the "low_discrepancy.py" to obtain the Moro-normalized Sobol sequence.
 
 If you want to obtain the figure 1, 2 and 3, you can run the file of "sobol_normal.py".
